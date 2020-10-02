@@ -1,5 +1,5 @@
 # # Algorithm Test and Guidebook (Test Case)
-**Live Link:** [https://burakkucukali1.github.io/testCase/](https://burakkucukali1.github.io/testCase//)
+**Live Link:** [https://burakkucukali1.github.io/testCase/](https://burakkucukali1.github.io/testCase/)
 
 ### Features
 <hr>
