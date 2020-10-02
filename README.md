@@ -5,6 +5,7 @@
 <hr>
 
 This is a test case that contains 2 question.
+
 **First question**: Algorithm that can return first duplicate number in array.
 **Second question**: Actually, this is not question. It is guidebook which can update, delete and sort contacts
 
