@@ -22,7 +22,7 @@ This is a test case that contains 2 question.
  <hr>
  
  |Prop|Component|Parent Component|
- |--|--|--|--|
+ |--|--|--|
  |index|contact|question2|
  |name|contact|question2|
  |surname|contact|question2|
