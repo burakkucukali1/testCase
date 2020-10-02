@@ -23,10 +23,10 @@ This is a test case that contains 2 question.
  
  |Prop|Component|Parent Component|
  |--|--|--|--|
- |index|contact|question2|index of contacts
- |name|contact|question2|To check if the book is belongs to a user
- |surname|contact|question2|To check if the book is belongs to a user
- |phone|contact|question2|To check if the book is belongs to a user
+ |index|contact|question2|
+ |name|contact|question2|
+ |surname|contact|question2|
+ |phone|contact|question2|
 
    > #install dependencies
  
